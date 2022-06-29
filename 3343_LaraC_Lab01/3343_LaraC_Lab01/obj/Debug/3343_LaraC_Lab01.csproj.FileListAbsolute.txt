@@ -1,0 +1,11 @@
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\bin\Debug\3343_LaraC_Lab01.exe.config
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\bin\Debug\3343_LaraC_Lab01.exe
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\bin\Debug\3343_LaraC_Lab01.pdb
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\obj\Debug\3343_LaraC_Lab01.csprojAssemblyReference.cache
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\obj\Debug\_3343_LaraC_Lab01.Properties.Resources.resources
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\obj\Debug\3343_LaraC_Lab01.csproj.GenerateResource.cache
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\obj\Debug\3343_LaraC_Lab01.csproj.CoreCompileInputs.cache
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\obj\Debug\3343_LaraC_Lab01.exe
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\obj\Debug\3343_LaraC_Lab01.pdb
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\obj\Debug\_3343_LaraC_Lab01.EmployeeDetails.resources
+D:\Users\lcris\Documents\School Projects\7th Semester Tarleton\1-Advanced C# Programming BCIS-3343\3343_LaraC_Lab01\3343_LaraC_Lab01\obj\Debug\_3343_LaraC_Lab01.MainForm.resources
