@@ -1,0 +1,2 @@
+# Employee-info
+This program is used to create a list of employees. The employees information is stored in a diferent class clled employees.  The information is then tranmited to a list to be displayed in the list box. The user can click the name of a employee in the listbox,  and the user will have displayed a different form with all the datails of the employee. the user can close this from.  The user can also clar all the employyes from the list and list box, and it can finnaly close the program with te exit button.*/
